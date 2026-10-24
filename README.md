@@ -1,5 +1,5 @@
 # ChatGPT Telegram Bot
-![python-version](https://img.shields.io/badge/python-3.9-blue.svg)
+![python-version](https://img.shields.io/badge/python-3.12-blue.svg)
 [![openai-version](https://img.shields.io/badge/openai-0.27.4-orange.svg)](https://openai.com/)
 [![license](https://img.shields.io/badge/License-GPL%202.0-brightgreen.svg)](LICENSE)
 [![Publish Docker image](https://github.com/n3d1117/chatgpt-telegram-bot/actions/workflows/publish.yaml/badge.svg)](https://github.com/n3d1117/chatgpt-telegram-bot/actions/workflows/publish.yaml)
@@ -36,7 +36,7 @@ If you want to help with translations, check out the [Translations Manual](https
 PRs are always welcome!
 
 ## Prerequisites
-- Python 3.9+
+- Python 3.12
 - A [Telegram bot](https://core.telegram.org/bots#6-botfather) and its token (see [tutorial](https://core.telegram.org/bots/tutorial#obtain-your-bot-token))
 - An [OpenAI](https://openai.com) account (see [configuration](#configuration) section)
 

@@ -1,3 +1,4 @@
+-c constraints.txt
 python-dotenv>=1.2.2
 pydub~=0.25.1
 tiktoken==0.12.0
